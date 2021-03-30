@@ -1,0 +1,9 @@
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\bin\Debug\netstandard2.0\ElevenNote.C0.deps.json
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\bin\Debug\netstandard2.0\ElevenNote.C0.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\bin\Debug\netstandard2.0\ElevenNote.C0.pdb
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.AssemblyInfoInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.AssemblyInfo.cs
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Contracts\obj\Debug\netstandard2.0\ElevenNote.C0.pdb

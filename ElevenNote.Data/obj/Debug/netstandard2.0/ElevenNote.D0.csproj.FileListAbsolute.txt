@@ -1,0 +1,4 @@
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.D0.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.D0.AssemblyInfoInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.D0.AssemblyInfo.cs
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.D0.csproj.CoreCompileInputs.cache

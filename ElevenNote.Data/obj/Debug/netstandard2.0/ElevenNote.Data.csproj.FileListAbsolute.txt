@@ -1,0 +1,16 @@
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.deps.json
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.pdb
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.AssemblyInfoInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.AssemblyInfo.cs
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.csproj.CopyComplete
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.pdb

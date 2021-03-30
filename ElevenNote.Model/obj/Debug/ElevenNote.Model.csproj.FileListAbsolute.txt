@@ -1,0 +1,16 @@
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\ElevenNote.Model.dll.config
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\ElevenNote.Model.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\ElevenNote.Model.pdb
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\obj\Debug\ElevenNote.Model.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\obj\Debug\ElevenNote.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\obj\Debug\ElevenNote.Model.csproj.CopyComplete
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\obj\Debug\ElevenNote.Model.dll
+C:\Users\Mike\OneDrive - Sondhi Solutions, LLC\Documents\ElevenFiftyProjects\ElevenNoteMVC\ElevenNote.Model\obj\Debug\ElevenNote.Model.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iP3hE3tJ4RGBw63U1upSgSoRsOPNQMrTew3BsHJBx+CKRisv4eNE/SnsFyebu/fxmCjcq93TLmUeDD4qxhD34A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mike\\OneDrive - Sondhi Solutions, LLC\\Documents\\ElevenFiftyProjects\\ElevenNoteMVC\\ElevenNote.Models\\ElevenNote.M0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
